@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_padding">15dp</dimen>
+    <dimen name="question_size">20sp</dimen>
+    <dimen name="button_margin">10dp</dimen>
+    <dimen name="img_width">300dp</dimen>
+    <dimen name="img_height">200dp</dimen>
+    <dimen name="margin_bottom">20dp</dimen>
+    <dimen name="small_text">12sp</dimen>
+    <dimen name="help_padding">20dp</dimen>
+</resources>
